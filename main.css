@@ -3,6 +3,18 @@
     padding: 0;
     box-sizing: border-box;
   }
+  .instagram{
+      background: #14a089; 
+      background: -moz-linear-gradient(45deg, #000000 0%,#ffffff 100%); 
+      background: -webkit-linear-gradient(45deg, #000000 0%,#ffffff 100%); 
+      background: linear-gradient(45deg, #000000 0%,#ffffff 100%); 
+      filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f09433', endColorstr='#bc1888',GradientType=1 );
+      border-width: 3px;
+      border-style: solid;
+      border-color: rgb(0, 0, 0);
+      border-radius: 50%;
+    }
+
   html {
     height: 100%;  
   }
